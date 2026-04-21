@@ -1,0 +1,10 @@
+VEHICLE_RATES={
+    "economy":10,
+    "premium":18,
+    "suv":25
+}
+SURGE_CONFIG={
+    "start_time":17,
+    "end_time":20,
+    "multiplier":1.5
+}
